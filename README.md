@@ -1,3 +1,4 @@
+
 ## Availup
 To run an Avail light client, simply run the following command:
 ```bash
